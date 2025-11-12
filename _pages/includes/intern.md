@@ -1,3 +1,4 @@
+<section id="internships">
 # 💼 Internship Experience
 ## 2025.02 - 2025.08: Smart Hardware Product Manager Intern at Shenzhen Timekettle Technology Co., Ltd.
 (Company Focus: Leading market share in translation headphone category, offering simultaneous interpretation headphones, handheld translators, etc.)
