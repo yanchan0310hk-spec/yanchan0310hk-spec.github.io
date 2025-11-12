@@ -1,4 +1,5 @@
 <section id="others">
+
 # 🛠️ Skills & Hobbies
 ## Technical Skills: 
 Proficient in prototype tools (Axure, MockingBot, MasterGo); skilled in data analysis tools (Excel, MySQL, Python); adept at document/spreadsheet/mind mapping tools; strong learning, logical thinking & expression abilities
