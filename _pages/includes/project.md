@@ -11,3 +11,5 @@
 - Researched 5 types of handwriting robots, analyzed cost structure, formulated strategies to keep procurement/manufacturing/development costs below market average
 ### Product Development & Commercial Operation: 
 - Led team to complete hardware selection, software development & online system integration; achieved profitable commercial operation on schedule
+
+</section>

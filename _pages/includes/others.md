@@ -13,3 +13,5 @@ Reading, fitness, photography, playing the guitar
 - Strong coordination, management & execution skills (served as class vice monitor)
 - Excellent team collaboration & cross-team communication abilities
 - Outgoing personality, quick adaptation to corporate rhythm
+
+</section>

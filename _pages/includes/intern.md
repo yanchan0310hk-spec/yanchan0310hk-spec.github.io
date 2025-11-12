@@ -11,3 +11,5 @@ Researched & purchased 6 same-price-range competitors, analyzed Amazon promotion
 - Collected user VOC, defined next-gen flagship product (hardware ID, performance indicators, software functions); output 100+ pages of high-fidelity prototypes & multiple PRDs
 ### Project Management & Quality Control: 
 - Coordinated with external suppliers for full development 链路；collaborated with sales/quality departments to solve after-sales quality issues
+
+</section>
