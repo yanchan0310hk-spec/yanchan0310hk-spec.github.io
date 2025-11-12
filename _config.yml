@@ -8,7 +8,8 @@
 # Site Settings
 title                    : "Yan Chan"
 description              : "Have a try"
-repository               : "https://github.com/yanchan0310hk-spec"
+repository               : "yanchan0310hk-spec/yanchan0310hk-spec.github.io"
+url                      : "https://yanchan0310hk-spec.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
