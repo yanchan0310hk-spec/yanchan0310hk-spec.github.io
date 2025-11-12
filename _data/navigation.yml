@@ -1,17 +1,17 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#basicinfo"
+    url: "/#-👤-Personal-Profile"
 
   - title: "Education"
-    url: "/#edu"
+    url: "/#-🎓-Education"
 
   - title: "Internships"
-    url: "/#internships"
+    url: "/#-💼-Internship-Experience"
 
   - title: "Projects"
-    url: "/#projects"
+    url: "/#-🚀-Project-Experience"
 
   - title: "Skills"
-    url: "/#others"
+    url: "/#-🛠️-Skills-&-Hobbies"
 
