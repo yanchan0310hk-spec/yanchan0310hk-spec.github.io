@@ -1,17 +1,16 @@
-# main links links
+# _data/navigation.yml（正确配置！）
 main:
   - title: "About Me"
-    url: "/#-👤-Personal-Profile"
+    url: "/#👤-personal-profile"  # 对应 id: 👤-personal-profile（无开头-，英文小写）
 
   - title: "Education"
-    url: "/#-🎓-Education"
+    url: "/#🎓-education"        # 对应 id: 🎓-education（无开头-，英文小写）
 
   - title: "Internships"
-    url: "/#-💼-Internship-Experience"
+    url: "/#💼-internship-experience"  # 对应 id: 💼-internship-experience
 
   - title: "Projects"
-    url: "/#-🚀-Project-Experience"
+    url: "/#🚀-project-experience"    # 对应 id: 🚀-project-experience
 
   - title: "Skills"
-    url: "/#-🛠️-Skills-&-Hobbies"
-
+    url: "/#🛠️-skills-&-hobbies"      # 对应 id: 🛠️-skills-&-hobbies
