@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yan Chan"
-description              : "Have a try"
+title                    : "陳胤達"
+description              : 
 repository               : "yanchan0310hk-spec/yanchan0310hk-spec.github.io"
 url                      : "https://yanchan0310hk-spec.github.io"
 google_scholar_stats_use_cdn : false
@@ -24,32 +24,32 @@ baidu_site_verification  :
 author:
   name             : "Yan Chan"
   avatar           : "images/IMG_5381.JPG"
-  bio              : "個腦打的士走咗"
+  bio              : "Yan Chan"
   location         : "Hong Kong"
   employer         : "香港大學"
   pubmed           : 
   googlescholar    : 
   email            : "yanchan_0310@outlook.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://yanchan0310hk-spec.github.io"  # 英文双引号，填完整地址
+  researchgate     : 
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         : 
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yanchan0310hk-spec"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : "陳胤達"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : 
+  dblp             : 
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
