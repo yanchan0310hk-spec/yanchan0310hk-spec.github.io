@@ -1,6 +1,8 @@
 # 💼 Internship Experience
-## 2025.02 - 2025.08      Shenzhen Timekettle Technology Co., Ltd.  
+## 2025.02 - 2025.08     Shenzhen Timekettle Technology Co., Ltd.  
 Smart Hardware Product Manager 
+### Job Responsibilities: 
+During the tenure, participated in the development and iterative optimization of multiple products, mainly responsible for competitive product analysis, user research, product definition, etc. Specific responsibilities are as follows:
 ### Competitive Product Analysis: 
 Conducted comprehensive research on 6 same-priced competitors before new product launches. Systematically organized core information from competitors' promotional pages, completed practical product experience tests, and established a comparative framework covering functions, performance, price, and user reputation. Delivered multiple structured competitive analysis reports, providing key suggestions for optimizing core product functions and directly supporting the implementation of new product GTM (Go-to-Market) strategies.
 ### User Research: 
