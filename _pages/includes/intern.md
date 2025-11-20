@@ -1,11 +1,11 @@
 # 💼 Internship Experience
-## 2025.02 - 2025.08: Smart Hardware Product Manager Intern at Shenzhen Timekettle Technology Co., Ltd.
-(Company Focus: Leading market share in translation headphone category, offering simultaneous interpretation headphones, handheld translators, etc.)
-### Competitive Product Analysis & Interaction Design: 
-Researched & purchased 6 same-price-range competitors, analyzed Amazon promotion highlights, output multiple competitive analysis reports; defined differentiated interaction methods, optimized core function PSF (Problem-Solution Fit)
-### User Research & Scenario Insight: 
-- Conducted usability tests for new/old users, combined questionnaires/interviews to research real usage scenarios, NPS & PMF; output reports on user portraits & journey
-### Product Value Analysis & Requirement Definition: 
-- Collected user VOC, defined next-gen flagship product (hardware ID, performance indicators, software functions); output 100+ pages of high-fidelity prototypes & multiple PRDs
-### Project Management & Quality Control: 
-- Coordinated with external suppliers for full development 链路；collaborated with sales/quality departments to solve after-sales quality issues
+## 2025.02 - 2025.08      Shenzhen Timekettle Technology Co., Ltd.  
+Smart Hardware Product Manager 
+### Competitive Product Analysis: 
+Conducted comprehensive research on 6 same-priced competitors before new product launches. Systematically organized core information from competitors' promotional pages, completed practical product experience tests, and established a comparative framework covering functions, performance, price, and user reputation. Delivered multiple structured competitive analysis reports, providing key suggestions for optimizing core product functions and directly supporting the implementation of new product GTM (Go-to-Market) strategies.
+### User Research: 
+To improve product-user fit and optimize user experience, explored user pain points and needs in real usage scenarios through diverse research methods. Designed multiple structured questionnaires with over 400 valid responses collected, and conducted more than 10 in-depth interviews with target users. Delivered user research reports and demand analysis reports, ultimately converting user needs into 3 actionable product function definitions.
+### Product Definition: 
+Based on competitive product analysis and user demand research, participated in the definition of multiple products. Aligned product strategic goals and feasibility assessments with UI/UX and technical teams, completed hardware ID concept design, software function architecture construction, and interaction process design. Delivered multiple PRD (Product Requirements Document) and prototypes, and continuously tracked demand implementation.
+### Usability Testing: 
+To verify the usability of new product functions, identify potential usage issues, and ensure smooth product launches, led large-scale user testing activities. Designed standardized usability testing processes, recruited over 60 domestic and foreign users, observed user journeys and recorded behavioral data. Regularly summarized user feedback, established a problem tracking system, and promoted R&D teams to fix issues. Ultimately collected and optimized more than 15 product defects, increasing user satisfaction by 25% and reducing negative reviews and return rates after product launches.

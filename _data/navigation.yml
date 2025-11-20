@@ -13,4 +13,4 @@ main:
     url: "/#-project-experience"    # 对应 id: 🚀-project-experience
 
   - title: "Skills"
-    url: "/#-skills-&-hobbies"      # 对应 id: 🛠️-skills-&-hobbies
+    url: "/#-skills"      # 对应 id: 🛠️-skills-&-hobbies

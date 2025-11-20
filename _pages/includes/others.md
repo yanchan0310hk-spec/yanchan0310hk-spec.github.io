@@ -1,13 +1,11 @@
-# 🛠️ Skills & Hobbies
-## Technical Skills: 
-Proficient in prototype tools (Axure, MockingBot, MasterGo); skilled in data analysis tools (Excel, MySQL, Python); adept at document/spreadsheet/mind mapping tools; strong learning, logical thinking & expression abilities
-## Language Proficiency: 
-- English：CET-6 (524), IELTS (6.5); 
-- Chinese： Native Mandarin, Fluent Cantonese
+# 🛠️ Skills
+## Languages: 
+English (IELTS 6.5), Cantonese (Applicable as a working language)
+## Computer Skills: 
+Master C language, Python and other programming languages, proficient in Excel advanced data processing functions
+## Artificial Intelligence: 
+Master the underlying principles of machine learning, large language models, etc., master prompt engineering, and be good at using large language models to improve work efficiency
+## Personal Advantages: 
+Background in science and engineering as well as general business, with a broad range of knowledge; strong team collaboration ability, good at cross-departmental collaboration; cheerful personality, able to integrate into the team quickly
 ## Hobbies: 
-Reading, fitness, photography, playing the guitar
-## Core Advantages: 
-- Cross-disciplinary background (science & engineering + general business)
-- Strong coordination, management & execution skills (served as class vice monitor)
-- Excellent team collaboration & cross-team communication abilities
-- Outgoing personality, quick adaptation to corporate rhythm
+Fitness, Guitar, Photography, Reading
